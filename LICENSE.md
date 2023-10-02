@@ -1,21 +1,22 @@
-Kabayaki-Kappikapi License
+Kabayaki-Kappikapi License v1.0
 
-Copyright (c) <year> <author name>
+著作権 (c) <年> <著者名>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+本ソフトウェアおよび関連ドキュメントファイル（以下「ソフトウェア」）のコピーを取得するすべての人に対して、以下の条件に従い、無償で以下の権利が許可されます。
+ソフトウェアを使用、複製、変更、結合、公開、配布、サブライセンスおよび/またはソフトウェアのコピーを販売する権利を制限なく許可します。
 
-1. If the Software is used for commercial purposes (i.e., developing an application with the intention of generating profits), the source code must be made public before the application is released.
-   - However, this does not apply to software used for experimental or learning purposes, or for temporary use at an actual venue, such as exhibitions or events for general audiences.
-   - Even for web services or other non-direct software deployments, if there is a profit motive in the public service, such as advertising revenue, and it is necessary to declare the revenue as income, the source code must be made public.
+1. ソフトウェアが商業目的で使用される場合（つまり、利益を生み出すことを目的としたアプリケーションを開発する場合）、アプリケーションがリリースされる前にソースコードを公開する必要があります。
+   - ただし、実験や学習目的、または一般向けの展示会やイベントなどの実際の会場での一時的な使用については、この条件は適用されません。
+   - たとえウェブサービスや他の非直接的なソフトウェア展開であっても、広告収益などの利益動機があり、収益を所得として申告する必要がある場合は営利目的とみなし、この条件が適用されます。
 
-2. When using the Software for commercial purposes, the user must purchase at least one Japanese dagashi (traditional cheap sweets) and post a picture of it on social media.
+2. ソフトウェアを商業目的で使用する場合、ユーザーは少なくとも1つの日本の駄菓子（伝統的な安いお菓子）を購入し、それをソーシャルメディアに投稿する必要があります。
 
-3. If the user has a direct acquaintance with the author of the Software, they may use the Software for commercial purposes without disclosing the source code, provided that the author grants permission.
-   - However, it must be clearly stated in an easily visible location that the source code does not need to be disclosed due to the user having a direct acquaintance with the author and having received permission.
+3. ユーザーがソフトウェアの著者と直接知り合いである場合、著者が許可を与えた場合に限り、ソースコードを公開せずにソフトウェアを商業目的で使用することができます。
+   - ただし、著者との直接の知り合いであり、許可を得たためにソースコードを公開する必要がないことを、目立つ場所に明確に記載する必要があります。
 
-4. Any application created using this Software must visibly display the Software name, author, and the name of the license used by this Software. Additionally, the application must provide a way for users to read the license terms.
+4. 本ソフトウェアを使用して作成されたアプリケーションは、ソフトウェアの名前、著者、およびソフトウェアが使用するライセンスの名前を表示する必要があります。また、アプリケーションは、ユーザーがライセンス条件を読む方法を提供する必要があります。
 
-The above permissions are granted provided that the copyright notice and this permission notice are included in all copies or substantial portions of the Software.
+上記の許可は、著作権表示およびこの許可表示がソフトウェアのすべてのコピーまたは実質的な部分に含まれる限り、許可されます。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ソフトウェアは「現状のまま」提供され、明示または黙示を問わず、商業性、特定目的への適合性および非侵害の保証を含むがこれに限定されない、いかなる保証もありません。
+著作者または著作権者は、契約行為、不法行為またはその他の理由による請求、損害賠償またはその他の責任について、ソフトウェアまたはソフトウェアの使用またはその他の取引に関連して一切の責任を負わないものとします。
