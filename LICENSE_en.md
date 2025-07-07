@@ -8,6 +8,7 @@ The Japanese text prevails over this translation in case of any discrepancy.
 ────────────────────────────────────────
 §1  Definitions
 ────────────────────────────────────────
+
 1. “Software”  
    The source code, object code, and related assets distributed under this License, together with any Derivative Works thereof.  
 2. “Derivative Work”  
@@ -21,11 +22,13 @@ The Japanese text prevails over this translation in case of any discrepancy.
 ────────────────────────────────────────
 §2  Grant of Rights
 ────────────────────────────────────────
+
 Subject to the terms of this License, you are granted, free of charge, the rights to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the Software.  
 
 ────────────────────────────────────────
 §3  Conditions
 ────────────────────────────────────────
+
 A. Source Publication for Commercial Use  
    A-1 Scope: Before commencing Commercial Use, you must publish the complete, buildable source code of the Software and all Derivative Works (excluding independent third-party libraries) under this License.  
    A-2 Timing: Publication must occur no later than thirty calendar days prior to the start of Commercial Use.  
@@ -49,12 +52,15 @@ D. Acquaintance Exception
 ────────────────────────────────────────
 §4  Compatibility Notice
 ────────────────────────────────────────
+
 Linking or distributing the Software alongside components licensed under MIT, BSD-2/3-Clause, LGPL-v2.1/v3, or MPL-2.0 does not, by itself, subject those components to this License, provided their original license terms are satisfied. Conversely, those licenses do not prevent application of this License to the Software.  
 
 ────────────────────────────────────────
 §5  Disclaimer
 ────────────────────────────────────────
+
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  
 
 ────────────────────────────────────────
+
 (End)
