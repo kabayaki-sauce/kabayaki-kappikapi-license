@@ -1,21 +1,60 @@
-Kabayaki-Kappikapi License
+Kabayaki-Kappikapi License v2.0 (English Translation)
 
-Copyright (c) <year> <author name>
+Copyright (c) <year> <author>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+This document is the official English translation of the “Kabayaki-Kappikapi License v2.0.”  
+The Japanese text prevails over this translation in case of any discrepancy.
 
-1. If the Software is used for commercial purposes (i.e., developing an application with the intention of generating profits), the source code must be made public before the application is released.
-   - However, this does not apply to software used for experimental or learning purposes, or for temporary use at an actual venue, such as exhibitions or events for general audiences.
-   - Even for web services or other non-direct software deployments, if there is a profit motive in the public service, such as advertising revenue, and it is necessary to declare the revenue as income, the source code must be made public.
+────────────────────────────────────────
+§1  Definitions
+────────────────────────────────────────
+1. “Software”  
+   The source code, object code, and related assets distributed under this License, together with any Derivative Works thereof.  
+2. “Derivative Work”  
+   Any modification, adaptation, translation, compilation, collective work, or other secondary work based on the Software.  
+3. “Commercial Use”  
+   (a) Distributing, sublicensing, or selling any product or service that includes or depends on the Software or a Derivative Work, or  
+   (b) Providing functionality of the Software to third parties as a service (SaaS, API, etc.) for direct or indirect economic benefit, including advertising revenue.  
+4. “Publicly Accessible”  
+   Accessible on the Internet without authentication at the time of publication.  
 
-2. When using the Software for commercial purposes, the user must purchase at least one Japanese dagashi (traditional cheap sweets) and post a picture of it on social media.
+────────────────────────────────────────
+§2  Grant of Rights
+────────────────────────────────────────
+Subject to the terms of this License, you are granted, free of charge, the rights to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the Software.  
 
-3. If the user has a direct acquaintance with the author of the Software, they may use the Software for commercial purposes without disclosing the source code, provided that the author grants permission.
-   - However, it must be clearly stated in an easily visible location that the source code does not need to be disclosed due to the user having a direct acquaintance with the author and having received permission.
+────────────────────────────────────────
+§3  Conditions
+────────────────────────────────────────
+A. Source Publication for Commercial Use  
+   A-1 Scope: Before commencing Commercial Use, you must publish the complete, buildable source code of the Software and all Derivative Works (excluding independent third-party libraries) under this License.  
+   A-2 Timing: Publication must occur no later than thirty calendar days prior to the start of Commercial Use.  
+   A-3 Location: The code must be hosted at a Publicly Accessible URL such as a public Git repository.  
+   A-4 Integrity: The published code must allow a reasonable third party to build, install, and run the Commercial Use version.  
 
-4. Any application created using this Software must visibly display the Software name, author, and the name of the license used by this Software. Additionally, the application must provide a way for users to read the license terms.
+B. Dagashi Contribution  
+   B-1 Requirement: For each product or service under Commercial Use, purchase at least one Japanese dagashi (traditional inexpensive sweet) and post a photograph of it on a social-media platform. The post must include at least one hashtag from each group below.  
+       (1) #Dagashi or #駄菓子  
+       (2) #KabayakiLisence or #KKLV2  
+   B-2 Link Placement: A valid URL to the post must appear in both (a) the project’s top-level README and (b) any distributed documentation, website, or in-app “About” screen.  
+   B-3 Link Persistence: If the URL becomes inaccessible, you must repost equivalent content and update all links within fourteen days. Moving to another social-media service is permitted.  
+   B-4 Public Visibility: The post must remain publicly viewable for as long as Commercial Use continues.  
 
-The above permissions are granted provided that the copyright notice and this permission notice are included in all copies or substantial portions of the Software.
+C. Notice and Attribution  
+   Any application or service containing the Software must display the Software name, author, and a link to this License in a first-level “About” screen, and must include the full License text in any distribution.  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+D. Acquaintance Exception  
+   If you have a direct personal relationship with the author, the author may waive Condition A by a signed written document, and the existence of such waiver must be displayed prominently in the application or service.  
+
+────────────────────────────────────────
+§4  Compatibility Notice
+────────────────────────────────────────
+Linking or distributing the Software alongside components licensed under MIT, BSD-2/3-Clause, LGPL-v2.1/v3, or MPL-2.0 does not, by itself, subject those components to this License, provided their original license terms are satisfied. Conversely, those licenses do not prevent application of this License to the Software.  
+
+────────────────────────────────────────
+§5  Disclaimer
+────────────────────────────────────────
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  
+
+────────────────────────────────────────
+(End)
